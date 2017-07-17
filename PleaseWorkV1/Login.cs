@@ -7,7 +7,6 @@ using PleaseWorkV1.DataSets;
 using Newtonsoft.Json;
 
 
-//FUCK GIT 
 namespace PleaseWorkV1
 {
     [Activity(Label = "PleaseWorkV1", MainLauncher = true, Icon = "@drawable/icon")]
