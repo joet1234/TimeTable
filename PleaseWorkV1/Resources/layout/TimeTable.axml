@@ -40,6 +40,11 @@
                 android:background="#dcdcdc"
                 android:padding="20dip" />
         </TableRow>
+        <Button
+            android:id="@+id/Button"
+            android:text="Button One"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent" />
         <ListView
             android:id="@+id/NotesList"
             android:layout_height="wrap_content"
