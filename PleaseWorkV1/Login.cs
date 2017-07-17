@@ -6,6 +6,8 @@ using MySql.Data.MySqlClient;
 using PleaseWorkV1.DataSets;
 using Newtonsoft.Json;
 
+
+//FUCK GIT 
 namespace PleaseWorkV1
 {
     [Activity(Label = "PleaseWorkV1", MainLauncher = true, Icon = "@drawable/icon")]
@@ -157,7 +159,3 @@ namespace PleaseWorkV1
         }   
     }
 }
-
-
-// I think it's all a load of balls
-
